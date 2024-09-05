@@ -1,3 +1,5 @@
+Volunteering Application with Integrated SDG Classification
+
 lib contains all the front-end Flutter files for the application. Files for organisation's end are stored under lib/organisation.
 volunteer contains all the back-end Django files for the application. 
 
